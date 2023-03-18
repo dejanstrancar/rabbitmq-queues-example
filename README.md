@@ -1,6 +1,7 @@
 ### NodeJS RabbitMQ implementation of queues
 
 The example displays how you can sync data between services.
+
 `api-publisher` is a source of data, `api-receiver_x` are consumers.
 
 #### How to run
